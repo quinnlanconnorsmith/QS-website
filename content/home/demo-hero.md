@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: TS sux lmao
+title: A work-in-progress website 
 hero_media: hero-academic.png
 cta:
   label: '**Get Started**'
