@@ -77,8 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a fisheries biologist with interests relating to the conservation and management of fish communities, the influence of climate change on the ecology, fisheries, and population dynamics within lake systems, human effects on ecosystems, and water column effects due to changing light conditions. I am currently beginning a Ph.D. program at the University of Wisconsin – Madison examining climate change and the thermal-optical habitat of walleye. My Master’s work focused on sportfish behavioral responses to a coarse woody habitat introduction in northern Wisconsin, a common management option in ecosystems influenced by increased lakeshore residential development. In the past, I have worked on predictive models to help conceptualize future ecological conditions on Lake Superior relating to changing water column light conditions given trends in increased wind over the lake surface and ice cover decline
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
