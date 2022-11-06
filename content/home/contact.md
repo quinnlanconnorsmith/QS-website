@@ -43,7 +43,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: Follow Me on Twitter
+      name: Follow me on Twitter
       link: 'https://twitter.com/QuinnlanSmith'
     - icon: 
       icon_pack: 
