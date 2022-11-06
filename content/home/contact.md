@@ -28,27 +28,28 @@ content:
   email: qcsmith2@wisc.edu
   phone: 612-323-9790
   address:
-    street: Hasler Laboratory of Limnology - 680 N Park St.
+    street: Hasler Laboratory of Limnology  
+    680 N Park St.
     city: Madison
     region: WI
     postcode: '53706'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: 
+    longitude: 
   directions: 
   office_hours:
-  appointment_url: 'https://calendly.com'
+  appointment_url:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: Follow Me on Twitter
+      link: 'https://twitter.com/QuinnlanSmith'
+    - icon: 
+      icon_pack: 
+      name: 
+      link: 
 
 design:
   columns: '2'
