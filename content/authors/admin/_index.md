@@ -56,6 +56,9 @@ social:
   - icon: researchgate #Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://www.researchgate.net/profile/Quinnlan-Smith
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-6850-1504
   - icon: github
     icon_pack: fab
     link: https://github.com/quinnlanconnorsmith
