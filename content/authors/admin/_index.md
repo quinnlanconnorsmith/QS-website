@@ -35,7 +35,7 @@ education:
     - course: B.S. Biology 
       institution: University of Minnesota - Duluth
       year: 2018
-    - course: B.S. Hispanic Studies 
+    - course: B.A. Hispanic Studies 
       institution: University of Minnesota - Duluth
       year: 2018
 
@@ -54,7 +54,7 @@ social:
     display:
       header: true
   - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    icon_pack: academic
     link: https://www.researchgate.net/profile/Quinnlan-Smith
   - icon: github
     icon_pack: fab
