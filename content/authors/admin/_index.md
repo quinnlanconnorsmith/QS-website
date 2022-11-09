@@ -54,7 +54,7 @@ social:
     display:
       header: true
   - icon: researchgate #Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Quinnlan-Smith
   - icon: github
     icon_pack: fab
