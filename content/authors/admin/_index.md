@@ -53,7 +53,7 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: researchgate #Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fab
     link: https://www.researchgate.net/profile/Quinnlan-Smith
   - icon: github
