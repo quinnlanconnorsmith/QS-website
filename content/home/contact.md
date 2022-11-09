@@ -31,7 +31,7 @@ content:
     street: Hasler Laboratory of Limnology - 680 Park St. 
     city: Madison
     region: WI
-    postcode: '53706'
+    postcode: '53703'
     country: United States
     country_code: US
   coordinates:
