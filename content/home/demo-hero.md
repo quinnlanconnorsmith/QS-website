@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: A work-in-progress website 
-hero_media: hero-academic.png
+hero_media: qs_sturgeon_1.png
 cta:
   label: '**Get Started**'
   url: https://wowchemy.com/templates/
