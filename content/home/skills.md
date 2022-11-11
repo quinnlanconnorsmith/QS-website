@@ -17,14 +17,22 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 
-    icon: r-project
+    icon: 
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+    name: Fly-Fishing
+  - description: 
+    icon: 
     icon_pack: fas
-    name: Statistics
-  - description: 10%
+    name: Climbing
+  - description: 
+    icon: 
+    icon_pack: fas
+    name: Snowboarding
+   - description: 
+    icon: 
+    icon_pack: fas
+    name: Diving
+   - description: 
     icon: camera-retro
     icon_pack: fas
     name: Photography
