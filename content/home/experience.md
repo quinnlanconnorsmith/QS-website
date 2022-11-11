@@ -55,5 +55,5 @@ experience:
         * Assessing the Effect of Waves on Siscowet Lake Trout Feeding Habits
         
 design:
-  columns: '2'
+  columns: '3'
 ---
