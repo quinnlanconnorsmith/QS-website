@@ -19,7 +19,7 @@ feature:
   - description: 
     icon: camera-retro
     icon_pack: fas
-    name: Fly-Fishing
+    name: Fly Fishing
   - description: 
     icon: camera-retro
     icon_pack: fas
@@ -32,10 +32,7 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Diving
-   - description: 
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
