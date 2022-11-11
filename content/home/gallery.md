@@ -16,4 +16,4 @@ design:
   columns: '1'
 ---
 
-{{< gallery album="lowercase" >}}
+{{< gallery album="demo" >}}
