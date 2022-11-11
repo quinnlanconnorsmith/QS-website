@@ -25,7 +25,7 @@ experience:
   - title: PhD Graduate Studies 
     company: University of Wisconsin - Madison
     company_url: ''
-    company_logo: org-gc
+    company_logo: uw-logo-color-centered
     location: PIs Dr. Jake Vander Zanden and Dr. Olaf Jensen
     date_start: '2022-05-01'
     date_end: ''
