@@ -29,15 +29,15 @@ feature:
     icon_pack: fas
     name: Snowboarding
     
-feature:  
-  - description: 
-    icon: camera-retro
-    icon_pack: fas
-    name: Diving
-  - description: 
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+ 
+#  - description: 
+#    icon: camera-retro
+#    icon_pack: fas
+#    name: Diving
+#  - description: 
+#    icon: camera-retro
+#    icon_pack: fas
+#    name: Photography
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
