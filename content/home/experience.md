@@ -34,7 +34,7 @@ experience:
   - title: M.S. Graduate Studies
     company: University of Minnesota - Duluth
     company_url: 'https://www.d.umn.edu/'
-    company_logo: 
+    company_logo: umd
     location: PIs Dr. Thomas Hrabik and Dr. Greg Sass
     date_start: '2018-05-01'
     date_end: '2021-05-01'
@@ -43,7 +43,7 @@ experience:
   - title: Undergraduate Studies
     company: University of Minnesota - Duluth
     company_url: 'https://www.d.umn.edu/'
-    company_logo: 
+    company_logo: umd
     location: PIs Dr. Thomas Hrabik
     date_start: '2014-09-01'
     date_end: '2018-05-01'
