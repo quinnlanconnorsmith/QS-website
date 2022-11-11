@@ -17,19 +17,19 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 
-    icon: 
-    icon_pack: fab
+    icon: camera-retro
+    icon_pack: fas
     name: Fly-Fishing
   - description: 
-    icon: 
+    icon: camera-retro
     icon_pack: fas
     name: Climbing
   - description: 
-    icon: 
+    icon: camera-retro
     icon_pack: fas
     name: Snowboarding
    - description: 
-    icon: 
+    icon: camera-retro
     icon_pack: fas
     name: Diving
    - description: 
