@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: PhD Graduate Studies 
     company: University of Wisconsin - Madison
-    company_url: ''
-    company_logo: uw-logo-color-centered
+    company_url: 'https://www.wisc.edu/'
+    company_logo: 
     location: PIs Dr. Jake Vander Zanden and Dr. Olaf Jensen
     date_start: '2022-05-01'
     date_end: ''
@@ -33,8 +33,8 @@ experience:
 
   - title: M.S. Graduate Studies
     company: University of Minnesota - Duluth
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://www.d.umn.edu/'
+    company_logo: 
     location: PIs Dr. Thomas Hrabik and Dr. Greg Sass
     date_start: '2018-05-01'
     date_end: '2021-05-01'
@@ -42,8 +42,8 @@ experience:
 
   - title: Undergraduate Studies
     company: University of Minnesota - Duluth
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://www.d.umn.edu/'
+    company_logo: 
     location: PIs Dr. Thomas Hrabik
     date_start: '2014-09-01'
     date_end: '2018-05-01'
