@@ -1,25 +1,19 @@
 ---
 title: "Sport fish home range responses to a littoral coarse woody habitat addition in a north-temperate lake"
 authors:
-- Greg G. Sass
-- Stephanie L. Shaw
-- Thomas P. Rooney 
-- Andrew L. Rypel 
-- Joshua K. Raabe 
 - admin
-- Thomas R. Hrabik 
-- Scott T. Toshner 
+- Greg G. Sass
+- Thomas R. Hrabik
+- Stephanie L. Shaw
+- Joshua K. Raabe 
 author_notes:
+- "Swenson College of Science and Engineering, University of Minnesota-Duluth, 1035 Kirby Drive, Swenson Science Building, Duluth, Minnesota, 55812"
 - "Escanaba Lake Research Station, Office of Applied Science, Wisconsin Department of Natural Resources, 3110 Trout Lake Station Drive, Boulder Junction, Wisconsin, 54512"
+- "Swenson College of Science and Engineering, University of Minnesota-Duluth, 1035 Kirby Drive, Swenson Science Building, Duluth, Minnesota, 55812"
 - "Escanaba Lake Research Station, Office of Applied Science, Wisconsin Department of Natural Resources, 3110 Trout Lake Station Drive, Boulder Junction, Wisconsin, 54512"
-- "Department of Biological Sciences, Wright State University, 3640 Colonel Glenn Highway, Dayton, Ohio, 45435"
-- "Department of Wildlife, Fish, and Conservation Biology, University of California Davis, One Shields Avenue, Davis, California, 95616"
 - "College of Natural Resources, Trainer Natural Resources Building, University of Wisconsin-Stevens Point, 800 Reserve Street, Stevens Point, Wisconsin, 54481"
-- "Swenson College of Science and Engineering, University of Minnesota-Duluth, 1035 Kirby Drive, Swenson Science Building, Duluth, Minnesota, 55812"
-- "Swenson College of Science and Engineering, University of Minnesota-Duluth, 1035 Kirby Drive, Swenson Science Building, Duluth, Minnesota, 55812"
-- "Bureau of Fisheries Management, Wisconsin Department of Natural Resources, Brule, WI"
-date: "2019-07-22T00:00:00Z"
-doi: "10.1080/10402381.2019.1630530"
+date: "2021-11-25T00:00:00Z"
+doi: "https://doi.org/10.1111/eff.12643"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
