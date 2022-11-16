@@ -11,7 +11,13 @@ authors:
 - Scott T. Toshner 
 author_notes:
 - "Escanaba Lake Research Station, Office of Applied Science, Wisconsin Department of Natural Resources, 3110 Trout Lake Station Drive, Boulder Junction, Wisconsin, 54512"
-- "Equal contribution"
+- "Escanaba Lake Research Station, Office of Applied Science, Wisconsin Department of Natural Resources, 3110 Trout Lake Station Drive, Boulder Junction, Wisconsin, 54512"
+- "Department of Biological Sciences, Wright State University, 3640 Colonel Glenn Highway, Dayton, Ohio, 45435"
+- "Department of Wildlife, Fish, and Conservation Biology, University of California Davis, One Shields Avenue, Davis, California, 95616"
+- "College of Natural Resources, Trainer Natural Resources Building, University of Wisconsin-Stevens Point, 800 Reserve Street, Stevens Point, Wisconsin, 54481"
+- "Swenson College of Science and Engineering, University of Minnesota-Duluth, 1035 Kirby Drive, Swenson Science Building, Duluth, Minnesota, 55812"
+- "Swenson College of Science and Engineering, University of Minnesota-Duluth, 1035 Kirby Drive, Swenson Science Building, Duluth, Minnesota, 55812"
+- "Bureau of Fisheries Management, Wisconsin Department of Natural Resources, Brule, WI"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
