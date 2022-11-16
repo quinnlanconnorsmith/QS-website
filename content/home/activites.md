@@ -21,8 +21,8 @@ feature:
     icon_pack: fas
     name: Fly Fishing
   - description: 
-    icon: camera-retro
-    icon_pack: fas
+    icon: ":mountain:"
+    icon_pack: "emoji"
     name: Climbing
   - description: 
     icon: camera-retro
