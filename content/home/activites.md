@@ -32,7 +32,11 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Diving   
- 
+  - description: 
+    icon: camera-retro
+    icon_pack: fas
+    name: Photography 
+    
 #  - description: 
 #    icon: camera-retro
 #    icon_pack: fas
