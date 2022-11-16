@@ -7,9 +7,9 @@ widget: markdown
 headless: true
 
 # Order that this section appears on the page.
-weight: 127
+weight: 125
 
-title: Gallery
+title: Research Gallery
 subtitle:
 
 design:

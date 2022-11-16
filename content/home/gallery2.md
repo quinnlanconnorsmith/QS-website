@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 128
 
-title: Gallery
+title: Fun Gallery
 subtitle:
 
 design:
