@@ -34,11 +34,10 @@ publication_types: ["2"]
 publication: "*Lake and Reservoir Management, 35:4*(382-395)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Coarse woody habitat (CWH) additions have increased in popularity in glacial lakes (i.e. kettle lakes) of the Midwestern United States. However, most enhancements have not been treated as deliberate experiments to test for fish and aquatic ecosystem responses. Whole-lake CWH removal studies have shown reductions in fish growth rates, declines in forage fish abundance, and behavioral changes. Whole-lake CWH addition studies have shown improved reproductive output of certain fishes, increased availability and diversity of prey available to fishes, and influenced behavior and habitat use. Key uncertainties identified in previous CWH addition studies include: (1) Does CWH increase fish production? (2) Does CWH influence certain fish species differently? (3) Does CWH influence fish populations in larger lakes than previously studied? (4) Does CWH influence fish populations over longer periods of time? In 2015, we began a whole-lake CWH addition experiment on a northern Wisconsin lake aimed to address these uncertainties. Sanford Lake maintains a low productivity fish community and supports fishes not generally studied before in the context of CWH. Fish population dynamic/behavior and aquatic ecosystem response variables will be monitored, and tree drop CWH additions are slated for 3 phases over 20 yr. We introduce the Sanford Lake experiment and provide recommendations for expectations and the implementation of CWH additions in inland glacial lakes. Given the reliance of north-temperate inland glacial lake fisheries on allocthonous sources of energy and negative influences of lakeshore residential development on CWH, we hypothesize that CWH addition may contribute to maintaining or enhancing fish production.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: 
 tags:
 - Source Themes
 featured: false
