@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Welcome to my little slice of science 
+title: Welcome! My name is Quinn Smith, I'm a PhD Student at the University of Wisconsin-Madison's Center for Limnology under Dr. Jake Vander Zanden and Dr. Olaf Jensen. 
 hero_media: qs_sturgeon_1.png
 #cta:
 #  label: '**Get Started**'
