@@ -17,24 +17,24 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 
-    icon: camera-retro
-    icon_pack: fas
+    icon: ":fishing_pole_and_fish:"
+    icon_pack: "emoji"
     name: Fly Fishing
   - description: 
     icon: ":mountain:"
     icon_pack: "emoji"
     name: Climbing
   - description: 
-    icon: camera-retro
-    icon_pack: fas
+    icon: ":snowboarder:"
+    icon_pack: "emoji"
     name: Snowboarding
   - description: 
-    icon: camera-retro
-    icon_pack: fas
+    icon: ":diving_mask:"
+    icon_pack: "emoji"
     name: Diving   
   - description: 
-    icon: camera-retro
-    icon_pack: fas
+    icon: ":camera:"
+    icon_pack: "emoji"
     name: Photography 
     
 #  - description: 
