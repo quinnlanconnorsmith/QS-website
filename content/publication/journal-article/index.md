@@ -37,7 +37,7 @@ publication_short: ""
 abstract: "Coarse woody habitat (CWH) additions have increased in popularity in glacial lakes (i.e. kettle lakes) of the Midwestern United States. However, most enhancements have not been treated as deliberate experiments to test for fish and aquatic ecosystem responses. Whole-lake CWH removal studies have shown reductions in fish growth rates, declines in forage fish abundance, and behavioral changes. Whole-lake CWH addition studies have shown improved reproductive output of certain fishes, increased availability and diversity of prey available to fishes, and influenced behavior and habitat use. Key uncertainties identified in previous CWH addition studies include: (1) Does CWH increase fish production? (2) Does CWH influence certain fish species differently? (3) Does CWH influence fish populations in larger lakes than previously studied? (4) Does CWH influence fish populations over longer periods of time? In 2015, we began a whole-lake CWH addition experiment on a northern Wisconsin lake aimed to address these uncertainties. Sanford Lake maintains a low productivity fish community and supports fishes not generally studied before in the context of CWH. Fish population dynamic/behavior and aquatic ecosystem response variables will be monitored, and tree drop CWH additions are slated for 3 phases over 20 yr. We introduce the Sanford Lake experiment and provide recommendations for expectations and the implementation of CWH additions in inland glacial lakes. Given the reliance of north-temperate inland glacial lake fisheries on allocthonous sources of energy and negative influences of lakeshore residential development on CWH, we hypothesize that CWH addition may contribute to maintaining or enhancing fish production."
 
 # Summary. An optional shortened abstract.
-summary: Smaller summary 
+summary:  
 tags:
 - Source Themes
 featured: false
@@ -45,8 +45,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
