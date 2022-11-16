@@ -25,10 +25,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Lake and Reservoir Management, 35:4*(382-395)"
+publication: "*Ecology of Freshwater Fish, 31*(454-468)"
 publication_short: ""
 
-abstract: "Coarse woody habitat (CWH) additions have increased in popularity in glacial lakes (i.e. kettle lakes) of the Midwestern United States. However, most enhancements have not been treated as deliberate experiments to test for fish and aquatic ecosystem responses. Whole-lake CWH removal studies have shown reductions in fish growth rates, declines in forage fish abundance, and behavioral changes. Whole-lake CWH addition studies have shown improved reproductive output of certain fishes, increased availability and diversity of prey available to fishes, and influenced behavior and habitat use. Key uncertainties identified in previous CWH addition studies include: (1) Does CWH increase fish production? (2) Does CWH influence certain fish species differently? (3) Does CWH influence fish populations in larger lakes than previously studied? (4) Does CWH influence fish populations over longer periods of time? In 2015, we began a whole-lake CWH addition experiment on a northern Wisconsin lake aimed to address these uncertainties. Sanford Lake maintains a low productivity fish community and supports fishes not generally studied before in the context of CWH. Fish population dynamic/behavior and aquatic ecosystem response variables will be monitored, and tree drop CWH additions are slated for 3 phases over 20 yr. We introduce the Sanford Lake experiment and provide recommendations for expectations and the implementation of CWH additions in inland glacial lakes. Given the reliance of north-temperate inland glacial lake fisheries on allocthonous sources of energy and negative influences of lakeshore residential development on CWH, we hypothesize that CWH addition may contribute to maintaining or enhancing fish production."
+abstract: "Behavioural responses of fishes to littoral zone habitat enhancements are relatively understudied in diverse fish communities but are critical for understanding overall fish community responses. To advance knowledge on effects of coarse woody habitat (CWH) littoral zone enhancements, we initiated a long-term study on Sanford Lake, Vilas County, Wisconsin, where 160 trees were added to the littoral zone of the lake in 2018. We tested for short-term home range responses in muskellunge (Esox masquinongy), smallmouth bass (Micropterus dolomieu) and walleye (Sander vitreus) to this CWH addition. We used radio telemetry data collected premanipulation (2017) and postmanipulation (2018 and 2019) to construct annual home range estimates for each species. Limited kernel density (LKD) estimates, which partially exclude terrestrial areas, were used for estimating 50% and 95% home ranges. Over the course of the three years, average home ranges for each study species increased suggesting a behavioural response to the CWH addition. Muskellunge had the greatest home range estimate increase, followed by smallmouth bass and then walleye. Muskellunge and smallmouth bass had similar home ranges, which were larger than walleye home ranges. Increased home ranges across species could be a searching or deviation from premanipulation equilibrium home range response as a result of the CWH serving as a prey fish refuge, which may make them relatively inaccessible to predators. Our results suggest that fish behavioural responses to CWH additions may be species-specific and should be taken into consideration prior to implementing littoral habitat enhancements in diverse fish communities."
 
 # Summary. An optional shortened abstract.
 summary:  
@@ -70,12 +70,3 @@ projects: []
 #slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
