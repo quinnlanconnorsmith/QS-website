@@ -34,7 +34,7 @@ abstract: "Behavioural responses of fishes to littoral zone habitat enhancements
 summary:  
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
