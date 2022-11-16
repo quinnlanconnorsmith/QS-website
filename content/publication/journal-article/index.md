@@ -10,7 +10,7 @@ authors:
 - Thomas R. Hrabik 
 - Scott T. Toshner 
 author_notes:
-- "Equal contribution"
+- "Escanaba Lake Research Station, Office of Applied Science, Wisconsin Department of Natural Resources, 3110 Trout Lake Station Drive, Boulder Junction, Wisconsin, 54512"
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
