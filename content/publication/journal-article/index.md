@@ -18,8 +18,8 @@ author_notes:
 - "Swenson College of Science and Engineering, University of Minnesota-Duluth, 1035 Kirby Drive, Swenson Science Building, Duluth, Minnesota, 55812"
 - "Swenson College of Science and Engineering, University of Minnesota-Duluth, 1035 Kirby Drive, Swenson Science Building, Duluth, Minnesota, 55812"
 - "Bureau of Fisheries Management, Wisconsin Department of Natural Resources, Brule, WI"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2019-07-22T00:00:00Z"
+doi: "10.1080/10402381.2019.1630530"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
