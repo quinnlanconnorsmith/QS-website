@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: A work-in-progress website 
+title: Welcome to my little slice of science 
 hero_media: qs_sturgeon_1.png
 #cta:
 #  label: '**Get Started**'
@@ -22,7 +22,7 @@ design:
 #   css_class: fullscreen
 ---
 
-**Check out the goodies down below as I continue to edit them!**
+**Passion bring progress, get out there and show the world your passion!**
 
 
 <!--Custom spacing-->
