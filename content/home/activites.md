@@ -28,7 +28,10 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Snowboarding
-    
+  - description: 
+    icon: camera-retro
+    icon_pack: fas
+    name: Diving   
  
 #  - description: 
 #    icon: camera-retro
