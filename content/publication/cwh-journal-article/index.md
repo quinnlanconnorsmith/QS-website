@@ -1,5 +1,5 @@
 ---
-title: "Coarse woody habitat and glacial lake fisheries in the Midwestern United States: knowns, unknowns, and an experiment to advance our knowledge"
+title: "Sport fish home range responses to a littoral coarse woody habitat addition in a north-temperate lake"
 authors:
 - Greg G. Sass
 - Stephanie L. Shaw
