@@ -1,14 +1,14 @@
 ---
 title: "Coarse woody habitat and glacial lake fisheries in the Midwestern United States: knowns, unknowns, and an experiment to advance our knowledge"
 authors:
-- Greg G. Sass
-- Stephanie L. Shaw
-- Thomas P. Rooney 
-- Andrew L. Rypel 
-- Joshua K. Raabe 
+- Greg G Sass
+- Stephanie L Shaw
+- Thomas P Rooney 
+- Andrew L Rypel 
+- Joshua K Raabe 
 - admin
-- Thomas R. Hrabik 
-- Scott T. Toshner 
+- Thomas R Hrabik 
+- Scott T Toshner 
 author_notes:
 - "Escanaba Lake Research Station, Office of Applied Science, Wisconsin Department of Natural Resources, 3110 Trout Lake Station Drive, Boulder Junction, Wisconsin, 54512"
 - "Escanaba Lake Research Station, Office of Applied Science, Wisconsin Department of Natural Resources, 3110 Trout Lake Station Drive, Boulder Junction, Wisconsin, 54512"
