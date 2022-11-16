@@ -1,8 +1,14 @@
 ---
 title: "Coarse woody habitat and glacial lake fisheries in the Midwestern United States: knowns, unknowns, and an experiment to advance our knowledge"
 authors:
+- Greg G. Sass
+- Stephanie L. Shaw
+- Thomas P. Rooney 
+- Andrew L. Rypel 
+- Joshua K. Raabe 
 - admin
-- Robert Ford
+- Thomas R. Hrabik 
+- Scott T. Toshner 
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
