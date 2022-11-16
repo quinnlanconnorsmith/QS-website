@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Coarse woody habitat and glacial lake fisheries in the Midwestern United States: knowns, unknowns, and an experiment to advance our knowledge"
 authors:
 - admin
 - Robert Ford
