@@ -33,7 +33,4 @@ Welcome! My name is Quinn Smith, I'm a PhD Student at the University of Wisconsi
 <!--GitHub Button JS-->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-# Banner attempt
 
-banner:
-  image: "header.png"
