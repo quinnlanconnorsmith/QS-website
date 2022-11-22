@@ -21,10 +21,6 @@ design:
 # advanced:
 #   css_class: fullscreen
 
-# Banner attempt
-
-banner:
-  image: "header.png"
 
 ---
 Welcome! My name is Quinn Smith, I'm a PhD Student at the University of Wisconsin-Madison's Center for Limnology under Dr. Jake Vander Zanden and Dr. Olaf Jensen.
@@ -36,3 +32,8 @@ Welcome! My name is Quinn Smith, I'm a PhD Student at the University of Wisconsi
 <div class="mb-3"></div>
 <!--GitHub Button JS-->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+# Banner attempt
+
+banner:
+  image: "header.png"
