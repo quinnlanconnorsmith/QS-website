@@ -23,7 +23,4 @@ main:
 #    url: uploads/resume.pdf
 #    weight: 70
 
-# Banner attempt
 
-banner:
-  image: "header.png"
