@@ -20,6 +20,12 @@ design:
     text_color_light: true
 # advanced:
 #   css_class: fullscreen
+
+# Banner attempt
+
+banner:
+  image: "header.png"
+
 ---
 Welcome! My name is Quinn Smith, I'm a PhD Student at the University of Wisconsin-Madison's Center for Limnology under Dr. Jake Vander Zanden and Dr. Olaf Jensen.
 
