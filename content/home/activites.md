@@ -36,6 +36,10 @@ feature:
     icon: ":camera:"
     icon_pack: "emoji"
     name: Photography 
+  - description: 
+    icon: ":bread:"
+    icon_pack: "emoji"
+    name: Baking 
     
 #  - description: 
 #    icon: camera-retro
