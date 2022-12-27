@@ -25,7 +25,7 @@ design:
 ---
 Welcome! My name is Quinn Smith, I'm a PhD Student at the University of Wisconsin-Madison's Center for Limnology under Dr. Jake Vander Zanden and Dr. Olaf Jensen.
 
-**Passion bring progress, get out there and show the world your passion!**
+**Passion bring progress, get out there and show the world your passion.**
 
 
 <!--Custom spacing-->
