@@ -71,7 +71,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/QSmith_CV_2022.pdf
+#   link: uploads/QSmith_CV_2024.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
