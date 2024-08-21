@@ -32,6 +32,10 @@ content:
   office_hours:
   appointment_url:
   contact_links:
+#    - icon: twitter
+#      icon_pack: fab
+#      name: Follow me on Twitter
+#      link: 'https://twitter.com/QuinnlanSmith'
     - icon: 
       icon_pack: 
       name: 
