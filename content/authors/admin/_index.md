@@ -65,7 +65,9 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/quinnlanconnorsmith/
-
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=yMeKwSMAAAAJ&hl=en
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
