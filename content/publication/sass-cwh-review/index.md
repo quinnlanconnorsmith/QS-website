@@ -1,25 +1,22 @@
 ---
-title: "Coarse woody habitat and glacial lake fisheries in the Midwestern United States: knowns, unknowns, and an experiment to advance our knowledge"
+title: "Visual sensitivity, foraging behavior, and success of walleye (Sander vitreus) under ecologically relevant downwelling light conditions"
 authors:
-- Greg G. Sass
-- Stephanie L. Shaw
-- Thomas P. Rooney 
-- Andrew L. Rypel 
-- Joshua K. Raabe 
+- Noland O. Michels
 - admin
+- Loranzie S. Rogers
 - Thomas R. Hrabik 
-- Scott T. Toshner 
+- Greg G. Sass
+- Allen F. Mensinger
 author_notes:
-- "Escanaba Lake Research Station, Office of Applied Science, Wisconsin Department of Natural Resources, 3110 Trout Lake Station Drive, Boulder Junction, Wisconsin, 54512"
-- "Escanaba Lake Research Station, Office of Applied Science, Wisconsin Department of Natural Resources, 3110 Trout Lake Station Drive, Boulder Junction, Wisconsin, 54512"
-- "Department of Biological Sciences, Wright State University, 3640 Colonel Glenn Highway, Dayton, Ohio, 45435"
-- "Department of Wildlife, Fish, and Conservation Biology, University of California Davis, One Shields Avenue, Davis, California, 95616"
-- "College of Natural Resources, Trainer Natural Resources Building, University of Wisconsin-Stevens Point, 800 Reserve Street, Stevens Point, Wisconsin, 54481"
-- "Swenson College of Science and Engineering, University of Minnesota-Duluth, 1035 Kirby Drive, Swenson Science Building, Duluth, Minnesota, 55812"
-- "Swenson College of Science and Engineering, University of Minnesota-Duluth, 1035 Kirby Drive, Swenson Science Building, Duluth, Minnesota, 55812"
-- "Bureau of Fisheries Management, Wisconsin Department of Natural Resources, Brule, WI"
-date: "2019-07-22T00:00:00Z"
-doi: "10.1080/10402381.2019.1630530"
+- "Department of Biology, University of Minnesota-Duluth, 1035 Kirby Drive, 207 SSB, Duluth, MN, 55812, USA"
+- "Department of Biology, University of Minnesota-Duluth, 1035 Kirby Drive, 207 SSB, Duluth, MN, 55812, USA"
+- "Department of Psychology, University of Washington, Seattle, WA, 98195, USA"
+- "Department of Biology, University of Minnesota-Duluth, 1035 Kirby Drive, 207 SSB, Duluth, MN, 55812, USA"
+- "Escanaba Lake Research Station, Office of Applied Science Wisconsin Department of Natural Resources, 3110 Trout Lake Station Drive, Boulder Junction, WI, 54512, USA"
+- "Department of Biology, University of Minnesota-Duluth, 1035 Kirby Drive, 207 SSB, Duluth, MN, 55812, USA"
+
+date: "2025-01-04T00:00:00Z"
+doi: "10.1007/s10641-024-01650-y"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -31,10 +28,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Lake and Reservoir Management, 35:4*(382-395)"
+publication: "*Environmental Biology of Fishes, 108*(147-160)"
 publication_short: ""
 
-abstract: "Coarse woody habitat (CWH) additions have increased in popularity in glacial lakes (i.e. kettle lakes) of the Midwestern United States. However, most enhancements have not been treated as deliberate experiments to test for fish and aquatic ecosystem responses. Whole-lake CWH removal studies have shown reductions in fish growth rates, declines in forage fish abundance, and behavioral changes. Whole-lake CWH addition studies have shown improved reproductive output of certain fishes, increased availability and diversity of prey available to fishes, and influenced behavior and habitat use. Key uncertainties identified in previous CWH addition studies include: (1) Does CWH increase fish production? (2) Does CWH influence certain fish species differently? (3) Does CWH influence fish populations in larger lakes than previously studied? (4) Does CWH influence fish populations over longer periods of time? In 2015, we began a whole-lake CWH addition experiment on a northern Wisconsin lake aimed to address these uncertainties. Sanford Lake maintains a low productivity fish community and supports fishes not generally studied before in the context of CWH. Fish population dynamic/behavior and aquatic ecosystem response variables will be monitored, and tree drop CWH additions are slated for 3 phases over 20 yr. We introduce the Sanford Lake experiment and provide recommendations for expectations and the implementation of CWH additions in inland glacial lakes. Given the reliance of north-temperate inland glacial lake fisheries on allocthonous sources of energy and negative influences of lakeshore residential development on CWH, we hypothesize that CWH addition may contribute to maintaining or enhancing fish production."
+abstract: "Successful foraging of piscivores is often dependent upon light availability in their visual habitat and is often influenced by a number of abiotic and biotic factors. In north-temperate lakes, dissolved organic carbon concentrations vary greatly, thus likely influencing foraging success. To understand the impact this has on the walleye (Sander vitreus), we sought to study foraging success at various light intensities under physiologically relevant downwelling light conditions in a laboratory foraging arena. Using electroretinography to determine physiologically relevant light conditions in adult walleye, we found that fish exhibit broad spectral sensitivity that was greatest from 500 to 550 nm. Under optimal light conditions (525 nm), we next determined the reaction distance and foraging success of age-0 walleye at various light intensities. The average reaction distance of age-0 walleye increased rapidly from 12 cm in complete darkness to 27 cm at civil twilight (1 lx or 3.16 × 1013 photons m−2 s−1) and then plateaued, ranging from 28 to 30 cm at higher light intensities. Prey capture success of age-0 walleye was greatest under low light conditions, averaging 20.5% from nautical twilight to civil twilight at − 3° solar altitude (0.05–1 lx or 1.58 × 1011–3.16 × 1013 photons m−2 s−1) and declined to 10–12% as light intensity increased and in full darkness. Walleye may be best suited for environments with predominantly green downwelling light and age-0 foraging was most successful at nautical and civil twilight. In north-temperate lakes, dissolved organic carbon concentrations can fluctuate interannually due to climate change. Defining preferred juvenile walleye foraging conditions allows for predictions of climate change influences on walleye habitat and age-0 recruitment."
 
 # Summary. An optional shortened abstract.
 summary:  
