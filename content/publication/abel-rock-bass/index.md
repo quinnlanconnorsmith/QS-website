@@ -1,25 +1,20 @@
 ---
-title: "Coarse woody habitat and glacial lake fisheries in the Midwestern United States: knowns, unknowns, and an experiment to advance our knowledge"
+title: "Hungry Like the Bass: Observations of Pack Hunting in Rock Bass (Ambloplites rupestris)"
 authors:
+- Jack M. Abel
+- Sean E. Sass
+- Vincent G. Sass 
+- admin 
 - Greg G. Sass
-- Stephanie L. Shaw
-- Thomas P. Rooney 
-- Andrew L. Rypel 
-- Joshua K. Raabe 
-- admin
-- Thomas R. Hrabik 
-- Scott T. Toshner 
 author_notes:
-- "Escanaba Lake Research Station, Office of Applied Science, Wisconsin Department of Natural Resources, 3110 Trout Lake Station Drive, Boulder Junction, Wisconsin, 54512"
-- "Escanaba Lake Research Station, Office of Applied Science, Wisconsin Department of Natural Resources, 3110 Trout Lake Station Drive, Boulder Junction, Wisconsin, 54512"
-- "Department of Biological Sciences, Wright State University, 3640 Colonel Glenn Highway, Dayton, Ohio, 45435"
-- "Department of Wildlife, Fish, and Conservation Biology, University of California Davis, One Shields Avenue, Davis, California, 95616"
-- "College of Natural Resources, Trainer Natural Resources Building, University of Wisconsin-Stevens Point, 800 Reserve Street, Stevens Point, Wisconsin, 54481"
-- "Swenson College of Science and Engineering, University of Minnesota-Duluth, 1035 Kirby Drive, Swenson Science Building, Duluth, Minnesota, 55812"
-- "Swenson College of Science and Engineering, University of Minnesota-Duluth, 1035 Kirby Drive, Swenson Science Building, Duluth, Minnesota, 55812"
-- "Bureau of Fisheries Management, Wisconsin Department of Natural Resources, Brule, WI"
-date: "2019-07-22T00:00:00Z"
-doi: "10.1080/10402381.2019.1630530"
+- "Department of Ecology, Evolution, and Behavior, University of Minnesota Twin Cities, 1479 Gortner Avenue, St. Paul, MN 55108."
+- "North Lakeland Elementary School, 12686 County Highway K, Manitowish Waters, WI 54545"
+- "North Lakeland Elementary School, 12686 County Highway K, Manitowish Waters, WI 54545"
+- "Center for Limnology, University of Wisconsin-Madison, 680 North Park Street, Madison, WI 53706"
+- "Escanaba Lake Research Station, Office of Applied Science, Wisconsin Department of Natural Resources, 3110 Trout Lake Station Drive, Boulder Junction, WI 54512"
+
+date: "2025-05-28T00:00:00Z"
+doi: "10.1656/045.032.0213"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -31,16 +26,16 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Lake and Reservoir Management, 35:4*(382-395)"
+publication: "*Northeastern Naturalist, 32, no. 2*(N18-N22)"
 publication_short: ""
 
-abstract: "Coarse woody habitat (CWH) additions have increased in popularity in glacial lakes (i.e. kettle lakes) of the Midwestern United States. However, most enhancements have not been treated as deliberate experiments to test for fish and aquatic ecosystem responses. Whole-lake CWH removal studies have shown reductions in fish growth rates, declines in forage fish abundance, and behavioral changes. Whole-lake CWH addition studies have shown improved reproductive output of certain fishes, increased availability and diversity of prey available to fishes, and influenced behavior and habitat use. Key uncertainties identified in previous CWH addition studies include: (1) Does CWH increase fish production? (2) Does CWH influence certain fish species differently? (3) Does CWH influence fish populations in larger lakes than previously studied? (4) Does CWH influence fish populations over longer periods of time? In 2015, we began a whole-lake CWH addition experiment on a northern Wisconsin lake aimed to address these uncertainties. Sanford Lake maintains a low productivity fish community and supports fishes not generally studied before in the context of CWH. Fish population dynamic/behavior and aquatic ecosystem response variables will be monitored, and tree drop CWH additions are slated for 3 phases over 20 yr. We introduce the Sanford Lake experiment and provide recommendations for expectations and the implementation of CWH additions in inland glacial lakes. Given the reliance of north-temperate inland glacial lake fisheries on allocthonous sources of energy and negative influences of lakeshore residential development on CWH, we hypothesize that CWH addition may contribute to maintaining or enhancing fish production."
+abstract: "Observations of pack, communal, or social hunting in fishes are rare. While scuba diving in Star Lake, Vilas County, WI, we observed a school of Ambloplites rupestris (Rock Bass) exhibiting pack hunting of invasive Faxonious rusticus (Rusty Crayfish). Individual Rock Bass approached a Rusty Crayfish from the anterior to elicit a defensive posture while others attacked it from behind, or an individual attempted to remove chelae while another consumed the incapacitated Rusty Crayfish. To our knowledge, these behaviors are the first observations of pack hunting in a North American freshwater fish and may highlight the influence of aquatic invasive species on adaptations in foraging behaviors of native fish to capitalize on novel prey resources."
 
 # Summary. An optional shortened abstract.
 summary:  
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
