@@ -52,7 +52,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'A young of the year walleye'
+  caption: 'Two Age-0 Walleye'
   focal_point: ""
   preview_only: false
 
