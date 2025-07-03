@@ -52,7 +52,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'One of the trees dropped in Sanford Lake'
+  caption: 'A Rusty Crayfish in a defensive posture'
   focal_point: ""
   preview_only: false
 
