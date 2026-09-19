@@ -10,7 +10,7 @@ last_name: Smith
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate - Freshwater and Marine Sciences
+role: PhD Candidate - Freshwater and Marine Sciences (test)
 
 # Organizations/Affiliations to show in About widget
 organizations:
